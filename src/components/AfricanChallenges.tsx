@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { AlertTriangle, Users2, Lightbulb, Trophy } from 'lucide-react';
 
 const challenges = [
