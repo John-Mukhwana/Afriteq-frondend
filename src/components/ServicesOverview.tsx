@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Code2, Globe, Database, Smartphone, Shield, LineChart } from 'lucide-react';
 
 const services = [
