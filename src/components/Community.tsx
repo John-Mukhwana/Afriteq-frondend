@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Users, Calendar, MessageSquare, Share2 } from 'lucide-react';
 
 const Community = () => {
