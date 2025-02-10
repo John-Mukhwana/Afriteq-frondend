@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Lightbulb, Rocket, Brain, Cpu } from 'lucide-react';
 
 const innovations = [
